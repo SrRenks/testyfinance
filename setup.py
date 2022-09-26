@@ -38,6 +38,6 @@ author_email='srrenks@gmail.com',
 url='https://github.com/SrRenks/yfinance',
 
 # List project dependencies: 
-install_requires=['<pandas>', '<requests>', '<tqdm>'],
+install_requires=['pandas', 'requests', 'tqdm', 'wheel'],
 
 )
