@@ -37,7 +37,7 @@ author_email='srrenks@gmail.com',
 # Link to your github repository or website: 
 url='https://github.com/SrRenks/yfinance',
 
-packages=['yfinance'],
+packages=['YahooFinance'],
 # List project dependencies: 
 install_requires=['pandas', 'requests', 'tqdm', 'wheel'],
 

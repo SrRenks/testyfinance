@@ -1,3 +1,3 @@
-import yahoofinance
+from yahoofinance import YahooFinance
 
-__all__ = ['yahoofinance']
+__all__ = ['YahooFinance']
