@@ -1,3 +1,3 @@
 from yahoofinance import YahooFinance
 
-__all__ = [ 'YahooFinance']
+__all__ = [ 'yahoofinance']
